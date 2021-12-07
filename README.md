@@ -10,4 +10,4 @@ After copy and paste the necessary links that import Leaflet.css and Leaflet.js 
 Style sheet is created for HTML file; By using the Github Action, a new branch called Sawyer020-patch-1 is created and Create github-actions-Lab4.yml successfully.
 
 ## Automated Deployment
-With the help of Hostman https://hostman.com/, , a Front-end app is automatically deployed and the link is https://lab4.hostman.site/
+With the help of Hostman https://hostman.com/, a Front-end app is automatically deployed and the link is https://lab4.hostman.site/
