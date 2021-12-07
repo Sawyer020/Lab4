@@ -1,0 +1,11 @@
+/*Style Sheet of index.html*/
+body{
+	background:E8F2DE;
+	color:black;
+}
+
+
+#issMap { 
+        height: 300px;
+        width: 1000px;
+}
